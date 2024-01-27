@@ -7,7 +7,7 @@ from django.urls import reverse
 # from carts.models import Cart
 # from orders.models import Order, OrderItem
 
-# from users.forms import ProfileForm, UserLoginForm, UserRegistrationForm
+from users.forms import ProfileForm, UserLoginForm, UserRegistrationForm
 
 
 def login(request):
